@@ -14,6 +14,7 @@
 		D6CD5EA621E5672B009F832F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6CD5EA421E5672B009F832F /* LaunchScreen.storyboard */; };
 		D6CD5EB121E5672B009F832F /* tip_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD5EB021E5672B009F832F /* tip_calculatorTests.swift */; };
 		D6CD5EBC21E5672B009F832F /* tip_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD5EBB21E5672B009F832F /* tip_calculatorUITests.swift */; };
+		D6CD5ECA21E6B868009F832F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD5EC921E6B868009F832F /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D6CD5EB721E5672B009F832F /* tip_calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tip_calculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6CD5EBB21E5672B009F832F /* tip_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calculatorUITests.swift; sourceTree = "<group>"; };
 		D6CD5EBD21E5672B009F832F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6CD5EC921E6B868009F832F /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				D6CD5E9B21E5672A009F832F /* AppDelegate.swift */,
 				D6CD5E9D21E5672A009F832F /* ViewController.swift */,
 				D6CD5E9F21E5672A009F832F /* Main.storyboard */,
+				D6CD5EC921E6B868009F832F /* SettingsViewController.swift */,
 				D6CD5EA221E5672B009F832F /* Assets.xcassets */,
 				D6CD5EA421E5672B009F832F /* LaunchScreen.storyboard */,
 				D6CD5EA721E5672B009F832F /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				D6CD5E9E21E5672A009F832F /* ViewController.swift in Sources */,
 				D6CD5E9C21E5672A009F832F /* AppDelegate.swift in Sources */,
+				D6CD5ECA21E6B868009F832F /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
